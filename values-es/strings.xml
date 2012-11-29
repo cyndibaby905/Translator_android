@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Hola mundo</string>
+	<string name="user_name">Nombre de usuario</string>
+	<string name="welcome_words">Bienvenidos a esta aplicación!</string>
+</resources>
